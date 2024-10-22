@@ -4,7 +4,7 @@ ResaPred is a two-state (non-strict and strict) flexibility prediction tool with
 Before installing and running ResaPred, ensure your environment meets the following requirements:
 - **Python** 3.7.0 or higher
 - **PyTorch** 1.8.0 or higher
-- Additionally, you need to install the **biopython** library:
+- Additionally, you need to install the **biopython** package:
 ```bash
 pip install biopython
 ```
