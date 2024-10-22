@@ -7,11 +7,12 @@ Before installing and running ResaPred, ensure your environment meets the follow
 Additionally, you need to install the **biopython** library:
 ```bash
 pip install biopython
-
+```
 # Running ResaPred
 To predict the flexibility of a protein, simply run the run_model.sh script:
 ```bash
 bash run_model.sh
+```
 If the running process fails, after verifying the environment setup, you can manually execute the corresponding Python scripts as described in run_model.sh.
 
 # Input Data
